@@ -1,0 +1,38 @@
+body {
+    background-color: #D47677 ;
+    color: #aaa; 
+}
+
+#sign-in-box {
+    background-color: #F0F0F0 ;
+    margin: 0 auto;
+    width: 500px;
+   text-align: center;
+}
+
+.btn {
+    background-color: #9DD8D4;
+    color: white;
+    border: solid #9DD8D4 10px;
+}
+
+
+h1{
+    text-align: center;
+    color: #7E7E7E ;
+}
+
+#checkbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.spaces{
+    margin: 10px;
+}
+
+input{
+    border: solid  #aaa 1px;
+}
