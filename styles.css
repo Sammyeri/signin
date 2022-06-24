@@ -14,19 +14,25 @@ body {
     background-color: #9DD8D4;
     color: white;
     border: solid #9DD8D4 10px;
+    margin-top: 20px;
 }
 
 
 h1{
     text-align: center;
     color: #7E7E7E ;
+    padding-top: 50px;
+    font-size: 20px;
 }
 
 #checkbox{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    position: relative;
+    margin-left: 12.5%;
+    padding-bottom: 25px;
+
 }
 
 .spaces{
@@ -35,4 +41,10 @@ h1{
 
 input{
     border: solid  #aaa 1px;
+}
+
+.boxes{
+    width: 70%;
+    height: 30px;
+    padding: 5px;
 }
